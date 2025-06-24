@@ -50,7 +50,7 @@ BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques is a powerful develope
 This project aims to advance medical imaging analysis with deep learning. The core features include:
 
 - 🧠 **🔍 Model Workflow:** Seamlessly integrates data preprocessing, augmentation, and evaluation for end-to-end tumor classification.
-- 🖥️ **🧬 Deep Learning Models:** Utilizes frozen convolutional neural networks for reliable and accurate detection.
+- 🖥️ **🧬 Deep Learning Models:** Utilizes frozen convolutional neural networks for reliable and accurate detection. Uses VGG19 for image recognition
 - 🚀 **⚙️ Reproducibility:** Provides a clear, extendable pipeline to facilitate research and deployment.
 - 💡 **🩺 Healthcare Focus:** Designed to support medical decision-making and healthcare innovation.
 - 🎯 **📊 Performance Evaluation:** Includes comprehensive model assessment to ensure robustness and accuracy.
