@@ -31,12 +31,9 @@ Brain Tumor Classification Using Deep Learning Techniques like Frozen Convolutio
 - [Getting Started](#-getting-started)
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
-    - [Usage](#-usage)
-    - [Testing](#-testing)
 - [Features](#-features)
 - [Project Structure](#-project-structure)
     - [Project Index](#-project-index)
-- [Roadmap](#-roadmap)
 - [License](#-license)
 
 ---
@@ -148,26 +145,6 @@ Build BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques from the source 
 3. **Install the dependencies:**
 
 echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### 💻 Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### 🧪 Testing
-
-Brain-tumor-classification-using-deep-learning-techniques uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-
-## 📈 Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
