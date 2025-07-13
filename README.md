@@ -124,7 +124,9 @@ This project aims to advance medical imaging analysis with deep learning. The co
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** JupyterNotebook, Python
+- **Libraries and Dependencies Used**: OpenCV, Matplotlib, Pandas, Numpy, Scikit-Learn, Tensorflow, Keras, Joblib (to save model checkpoints), Seaborn
+- **Deep Learning Algorithms and Techniques Used**: Frozen Convolutional Neural Networks, VGG19 (for image recognition), Incremental Fine Tuning
 
 ### ⚙️ Installation
 
@@ -141,10 +143,6 @@ Build BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques from the source 
     ```sh
     ❯ cd BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
 
 ---
 
