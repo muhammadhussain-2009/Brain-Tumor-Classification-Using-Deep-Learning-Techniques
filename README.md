@@ -32,6 +32,7 @@
 - [Features](#-features)
 - [Project Structure](#-project-structure)
     - [Project Index](#-project-index)
+- [Roadmap](#roadmap)
 - [License](#-license)
 
 ---
@@ -142,7 +143,9 @@ Build BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques from the source 
     ```sh
     ❯ cd BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques
     ```
-
+## Roadmap
+- [X] **`Task 1`**: 
+- [ ] **`Task 2`**: 
 ---
 
 ## 📜 License
