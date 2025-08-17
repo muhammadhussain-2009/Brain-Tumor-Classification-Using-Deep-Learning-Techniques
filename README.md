@@ -40,9 +40,11 @@
 
 ## ✨ Overview
 
-BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques is a powerful developer tool that automates the process of identifying and categorizing brain tumors from medical images using deep learning models. It provides a complete pipeline—from data preprocessing and augmentation to model training and evaluation—making it easier for researchers and developers to implement accurate tumor classification systems.
+Brain-Tumor-Classification-Using-Deep-Learning-Techniques is a repository contatining a project that automates the process of identifying and categorizing brain tumors from medical images using deep learning models. It provides a complete pipeline—from data preprocessing and augmentation to model training and evaluation—making it easier for researchers and developers to implement accurate tumor classification systems.
 
-**Why BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques?**
+**Why use Deep Leanrning to Classify Brain Tumors?**
+
+Medical  image  classification  has  gained tremendous  attention  in  recent  years,  and  Convolutional Neural  Network  (CNN)  is  the  most  widespread  neural network  model  for  image  classification  problem.  CNN  is designed  to  determine  features  adaptively  through backpropagation by applying numerous building blocks, such as  convolution  layers,  pooling  layers,  and  fully  connected layers. In this project, we mainly focused on developing a CNN model for classifying  brain tumors while also using pre trained models like VGG19 for image recognition. 
 
 This project aims to advance medical imaging analysis with deep learning. The core features include:
 
