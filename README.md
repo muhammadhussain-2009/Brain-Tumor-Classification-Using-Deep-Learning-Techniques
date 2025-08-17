@@ -6,7 +6,7 @@
 
 # BRAIN-TUMOR-CLASSIFICATION-USING-DEEP-LEARNING-TECHNIQUES
 
-<em>Transforming Brain Health with AI Precision</em>
+<em>Enhancing AI For Medical Imaging</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/license/muhammadhussain-2009/BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
