@@ -49,6 +49,7 @@ This project aims to advance medical imaging analysis with deep learning. The co
 - 🚀 **⚙️ Reproducibility:** Provides a clear, extendable pipeline to facilitate research and deployment.
 - 💡 **🩺 Healthcare Focus:** Designed to support medical decision-making and healthcare innovation.
 - 🎯 **📊 Performance Evaluation:** Includes comprehensive model assessment to ensure robustness and accuracy.
+- 📃 **🥼 Project Based on Following Research Paper:** https://www.researchgate.net/publication/338077321_Brain_Tumor_Classification_Using_Convolutional_Neural_Network
 
 ---
 
