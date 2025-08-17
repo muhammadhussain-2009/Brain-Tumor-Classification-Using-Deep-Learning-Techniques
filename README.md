@@ -147,8 +147,14 @@ Build BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques from the source 
     ❯ cd BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques
     ```
 ## Roadmap
-- [X] **`Task 1`**: 
-- [ ] **`Task 2`**: 
+- [X] **`Task 1`**: <strike>Load Dataset with Pandas, Data Cleaning, Inpection, Exploratory Data Analysis and Data Visualisation(Within Jupyter Notebook)</strike>
+- [ ] **`Task 2`**: Apply Data AUgmentation technqiues (cropping, resizing etc) with OpenCV's dependencies
+- [ ] **`Task 3`**: Set up train, test and validation file directories for model. Configure a generator to load images in batches.
+- [ ] **`Task 4`**: Feature Engineering, Build Model,  
+- [ ] **`Task 5`**: Freeze Inital Layers. Apply incremental fine tuning
+- [ ] **`Task 6`**: Set up different Models with VGG19 as a base and weights from previous layer. 
+- [ ] **`Task 7`**: Compile models with SGD optimizer. 
+- [ ] **`Task 8`**: Test and Evalaute Model 
 ---
 
 ## Contributing
