@@ -160,7 +160,7 @@ Build BRAIN-Tumor-Classification-Using-Deep-Learning-Techniques from the source 
 ## Contributing
 
 - **💬 [Join the Discussions](https://github.com/muhammadhussain-2009/Loan-Approval-Prediction-System/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/muhammadhussain-2009/Loan-Approval-Prediction-System/issues)**: Submit bugs found or log feature requests for the `Loan-Approval-Prediction-System` project.
+- **🐛 [Report Issues](https://github.com/muhammadhussain-2009/Loan-Approval-Prediction-System/issues)**: Submit bugs found or log feature requests for the `Brain-Tumor-Classification-Using-Deep-Learning-Techniques` project.
 - **💡 [Submit Pull Requests](https://github.com/muhammadhussain-2009/Loan-Approval-Prediction-System/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
